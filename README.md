@@ -1,0 +1,1 @@
+# Morfologi-Deteksi-Kanker-Paru-Menggunakan-Segmentasi-Citra-CT
